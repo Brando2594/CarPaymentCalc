@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarPaymentCalc</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_interest_rate">Enter Interest Rate</string>
+    <string name="monthly">Monthly</string>
+    <string name="payment_plan">Payment plan (Months)</string>
+    <string name="payment_plan_months">Payment Plan (Months)</string>
+</resources>
